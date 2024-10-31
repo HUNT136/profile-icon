@@ -1,0 +1,43 @@
+body{
+    background-color: #7e7a7a34;
+}
+.box{
+    width: 350px;
+    height: 340px;
+    color: rgb(226, 251, 251);
+    background-color: rgb(105, 105, 246);
+    border-radius: 25px;
+    margin: 10% 38% auto;
+    display: inline-block;
+    text-align: end;
+    text-align:center;
+    font-size: larger;
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+}
+.image-cropper{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius:  100%;
+    margin:5% 35% auto;
+}
+.my-pic{
+    margin: 0 auto;
+    width: auto;
+    height: 100%;
+    display:flex;
+    
+}
+.clo{
+    color: black;
+    background-color: #fff;
+}
+button{
+    padding: 2px;
+    border-radius: 10px;
+    background-attachment: fixed;
+    background-color: #6899ec;
+    font-weight: 600;
+}
